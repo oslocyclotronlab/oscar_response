@@ -1,7 +1,7 @@
 This is a collection of various response matrices used at OCL/the nuclear physics group in Oslo.
 
 Files:
-- `oscar2020`: OSCAR response from the simulations from 2020 in 16cm distance configuration, 28 detectors, with the new target chamber. Calculated on 10 keV grid between 50 keV and 10 MeV. Reference to article will follow. Based on OCL_GEANT4 v2.0.0; See [response_results](https://github.com/oslocyclotronlab/OCL_GEANT4/releases/tag/v2.0.0) for other formats and the response > 10 MeV. 
+- `oscar2020`: OSCAR response from the simulations from 2020 in 16 cm distance configuration, 30 detectors, with the new target chamber. Calculated on 10 keV grid between 50 keV and 10 MeV. Reference to article will follow. Based on OCL_GEANT4 v2.0.0; See [response_results](https://github.com/oslocyclotronlab/OCL_GEANT4/releases/tag/v2.0.0) for other formats and the response > 10 MeV. 
   - `_norm_efficiency`: spectra for each incident energy are normalized to the 
     total efficiency (equals division by number of incident events)
   - `_norm_1`: spectra for each incident energy are normalized to 1
